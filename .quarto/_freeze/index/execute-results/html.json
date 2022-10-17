@@ -1,0 +1,14 @@
+{
+  "hash": "b29cef5c08aa9bcc65c4fe09b65ad1ed",
+  "result": {
+    "markdown": "---\ntitle: \"GIS Project\"\n---\n\n\nWelcome to our GIS Project website.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
